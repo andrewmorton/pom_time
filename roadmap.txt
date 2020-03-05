@@ -1,0 +1,4 @@
+- Create a timer that will run 25 minutes and then alarm
+- Create a "take a break" splash screen
+- Log the name of the timer
+- Log how many times the timer has run 
